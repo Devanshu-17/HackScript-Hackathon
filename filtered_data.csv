@@ -1,0 +1,32 @@
+Image,Filtered Data
+image1,"- Date of issue
+- Name
+- Father's Name
+- Mother's Name
+- Gender
+- Phone
+- Place of Birth
+- City
+- State
+- School
+- Signature"
+image2,"-Borrower
+-Date Prepared
+-Type
+-Management
+-Ownership
+-Request
+-Purpose
+-Amount Repayment
+-Source of Repayment
+-Collateral Description
+-Collateral Valuation"
+image3,"- Seller
+- Buyer Address
+- Price
+- Date
+- Invoice No
+- Product
+- Quantity
+- Unit Price
+- Tax"
